@@ -512,6 +512,7 @@ sup {
 .load {
   margin-top: 30px;
   text-align: center;
+  margin-bottom: 25px;
 }
 .load > a {
   text-decoration: none;
@@ -541,6 +542,8 @@ sup {
   margin: 5 auto;
   text-align: center;
 }
+
+/** SORT */
 
 .menu-sort {
 	position: relative;
