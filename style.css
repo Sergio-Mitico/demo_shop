@@ -476,7 +476,7 @@ h2 {
 
 .product-body {
   border: 1px solid white;
-  height: 470px;
+  height:auto;
   width: 100%;
   background-color: rgba(44, 113, 184, 0.6);
   margin-left: -16px;
