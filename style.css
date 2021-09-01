@@ -239,14 +239,15 @@ input[type="search"] {
     border: 3px solid white;
     background: transparent;
     display: block;
-	 margin: -1px 1px;
+	 margin: -1px 0px;
     height: 20px;
 	 
 }
 
 .slick-dots li button:before {
 	color: rgb(255, 255, 255);
-	font-size: 20px;
+	font-size: 11px;
+	opacity: 0;
 }
 
 .slick-dots li.slick-active button:before {
